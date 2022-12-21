@@ -1,16 +1,32 @@
+# Hi there 👋
+## Hi there 👋
 ### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
 
-<!--
-**damdadi17/damdadi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+**Bold** <br>
+*italic* <br>
+~~strikethrough~~ <br>
 
-Here are some ideas to get you started:
+> 인용구입니다 하핫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 1번
+- 2번
+- 3번 
+
+[네이버가자](https://www.naver.com)
+
+```
+print('Python')
+```
+
+:smirk: <br>
+:joy: <br>
+:rage: <br>
+
+|No.|Name|
+|---|---|
+|1|이대열|
+|2|최성윤|
+|3|이장준|
