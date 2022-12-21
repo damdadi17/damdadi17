@@ -1,32 +1,5 @@
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
----
-**Bold** <br>
-*italic* <br>
-~~strikethrough~~ <br>
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=damdadi17)](https://github.com/damdadi17)
 
-> 인용구입니다 하핫
-
-- 1번
-- 2번
-- 3번 
-
-[네이버가자](https://www.naver.com)
-
-```
-print('Python')
-```
-
-:smirk: <br>
-:joy: <br>
-:rage: <br>
-
-|No.|Name|
-|---|---|
-|1|이대열|
-|2|최성윤|
-|3|이장준|
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damdadi17)](https://github.com/damdadi17/github-readme-stats)
